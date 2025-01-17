@@ -5,7 +5,7 @@ on:
     inputs:
       image_url:
         description: 'Recovery Image URL'
-        default: 'https://transfer.sh/<file-id>/<file>.img'
+        default: 'https://download1501.mediafire.com/xiio5kz1vvzgTylptF7eAH0iUM-D-UHBbFtLJsHTdrbg70jj04dHe_i1w9ZRyx7KQiCMS_IeDPeROQf-VdbIAgxhF5bhtkusAUxq9p0JW8WBGYTZJh_zA4NlhyQZJcll5EZKinanSae85FbbpWWp-oabyXWoDbrXmCuY529_BT8/kq72wigw9wwyqzl/recovery.img.lz4'
         required: true
         type: string
 
